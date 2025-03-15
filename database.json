@@ -1,0 +1,17 @@
+{
+    "dev": {
+      "driver": "pg",
+      "user": "magicmike",
+      "password": "magicman",
+      "host": "localhost",
+      "database": "store_front",
+      "port": 5432
+    },
+    "test": {
+    "driver": "pg",
+    "host": "localhost",
+    "database": "store_front_test",
+    "user": "magicmike",
+    "password": "magicman"
+  }
+  } 
